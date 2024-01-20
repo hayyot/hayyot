@@ -18,18 +18,21 @@
 
 #### Frontend
 <div align="center">
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vue" alt="vue" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="ts" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="vite" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vitest" alt="vitest" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="html" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="css" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="js" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=jquery" alt="jquery" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="react" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="sass" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="50" />
 </div>
 
 </td>
