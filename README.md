@@ -40,14 +40,16 @@
 
 #### Backend
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="java" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=redis" alt="redis" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="spring" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=idea" alt="idea" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=maven" alt="maven" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="c" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="cpp" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=py" alt="py" height="50" />
 </div>
 
 </td>
@@ -55,11 +57,15 @@
 
 #### DevOps
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vim" alt="vim" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="postman" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="docker" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="linux" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="nginx" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=md" alt="md" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="git" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="github" height="50" />
 </div>
 </td>
 </tr>
